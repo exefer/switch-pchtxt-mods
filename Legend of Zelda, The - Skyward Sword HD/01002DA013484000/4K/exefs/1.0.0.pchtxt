@@ -1,0 +1,16 @@
+@nsobid-D824D4B1BBD45D03668380D6D041BA4CA00A64FF
+# The Legend of Zelda: Skyward Sword HD [01002DA013484000] v1.0.0
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 4K Docked, 2K Handheld
+
+@enabled
+013A915C 000A0000A0050000
+013A916C 000F000070080000
+016CAC94 000F000070080000
+@stop
+
+@KeatonTheBot
+https://linktr.ee/keatonthebot
