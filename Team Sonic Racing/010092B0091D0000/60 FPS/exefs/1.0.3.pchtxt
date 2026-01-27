@@ -1,0 +1,14 @@
+@nsobid-AD75285A65EB6FFDDFB7DF4EC09732CF
+# Team Sonic Racing [010092B0091D0000] v1.0.3
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60 FPS
+
+@enabled
+004FA2C4 21008052 // mov w1, #0x1
+@stop
+
+@KeatonTheBot
+https://linktr.ee/keatonthebot
