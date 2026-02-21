@@ -1,0 +1,21 @@
+@nsobid-2C1AF17DD546A5BF820FA77456692F43
+# The Rogue Prince of Persia [01008D9022462000] v1.0.4
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 8K
+
+@enabled
+014BC298 031C8252 // mov w3, #0x10e0
+014BC2A8 02C08352 // mov w2, #0x1e00
+014BDE7C 08C08352 // mov w8, #0x1e00
+014BDE84 081C8252 // mov w8, #0x10e0
+014DE1CC 01C08352 // mov w1, #0x1e00
+014DE1D0 021C8252 // mov w2, #0x10e0
+014DE364 021C8252 // mov w2, #0x10e0
+014DE370 01C08352 // mov w1, #0x1e00
+@stop
+
+@KeatonTheBot
+https://linktr.ee/keatonthebot
